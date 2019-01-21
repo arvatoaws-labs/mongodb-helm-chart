@@ -1,0 +1,8 @@
+
+elasticsearch:
+  version: 3.6-v1
+  replicas: 3
+  replicaSetName: koen
+  storage:
+    storageClass: gp2
+    storageSize: 5Gi

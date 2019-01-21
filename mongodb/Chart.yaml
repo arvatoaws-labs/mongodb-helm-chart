@@ -1,0 +1,9 @@
+name: mongodb
+description: A MongoDB Helm chart for Kubernetes
+version: 0.1.1
+home: https://github.com/arvatoaws/mongodb-helm-chart
+sources:
+  - https://github.com/arvatoaws/mongodb-helm-chart
+maintainers:
+  - name: Philipp Hellmich
+    email: philipp.hellmich@bertelsmann.de
