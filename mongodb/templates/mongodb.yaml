@@ -22,3 +22,4 @@ spec:
       labels:
         release: prometheus
       interval: 10s
+    terminationPolicy: WipeOut
